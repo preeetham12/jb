@@ -1,0 +1,19 @@
+# Book settings
+title: "My Project Book"
+author: "Your Name"
+logo: ""
+execute:
+  execute_notebooks: "force"
+
+# Add any additional configuration here
+resources:
+  - text: "MLFlow Experiments"
+    url: "https://mlflow.example.com"
+  - text: "DagsHub Experiments"
+    url: "https://dagshub.example.com"
+  - text: "Docker Hub Container"
+    url: "https://hub.docker.com/r/your-container"
+  - text: "Deployed Model"
+    url: "http://model.example.com"
+  - text: "Streamlit App"
+    url: "http://streamlit.example.com"

@@ -1,0 +1,7 @@
+format: jb-book
+root: intro
+chapters:
+  - file: resume
+  - file: final_code
+  - file: resources
+  - file: video
